@@ -1,5 +1,5 @@
 # html-week2-day1
-Today we are practicing forking a repo and adding our our spin on an HTML Doc.
+Today we are practicing forking a repo and adding our own spin on an HTML Doc.
 
 ([]) Add another html file called hello_world.html
 ([]) In the new file, add this block. (You can add this by using the keyboard shortcut '! + enter')
