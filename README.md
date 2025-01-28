@@ -16,5 +16,5 @@ Today we are practicing forking a repo and adding our our spin on an HTML Doc.
 </body>
 </html>
 ```
-([]) In the hello_world.html add an <h1>, <h2>, <div>, <p>, and an <a>
-([]) Then add a link to the index page from the <a> tag
+([]) In the hello_world.html add an `<h1>, <h2>, <div>, <p>, and an <a>`
+([]) Then add a link to the index page from the `<a>` tag
